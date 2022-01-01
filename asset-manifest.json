@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/latif/static/css/main.38933bd4.chunk.css",
-    "main.js": "/latif/static/js/main.a990bb43.chunk.js",
-    "main.js.map": "/latif/static/js/main.a990bb43.chunk.js.map",
+    "main.css": "/latif/static/css/main.4b0c5fa7.chunk.css",
+    "main.js": "/latif/static/js/main.b47548ee.chunk.js",
+    "main.js.map": "/latif/static/js/main.b47548ee.chunk.js.map",
     "runtime-main.js": "/latif/static/js/runtime-main.2e681542.js",
     "runtime-main.js.map": "/latif/static/js/runtime-main.2e681542.js.map",
     "static/js/2.57a9d268.chunk.js": "/latif/static/js/2.57a9d268.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.6e3429ae.chunk.js": "/latif/static/js/3.6e3429ae.chunk.js",
     "static/js/3.6e3429ae.chunk.js.map": "/latif/static/js/3.6e3429ae.chunk.js.map",
     "index.html": "/latif/index.html",
-    "static/css/main.38933bd4.chunk.css.map": "/latif/static/css/main.38933bd4.chunk.css.map",
+    "static/css/main.4b0c5fa7.chunk.css.map": "/latif/static/css/main.4b0c5fa7.chunk.css.map",
     "static/js/2.57a9d268.chunk.js.LICENSE.txt": "/latif/static/js/2.57a9d268.chunk.js.LICENSE.txt",
     "static/media/bak.0345a2d5.jpg": "/latif/static/media/bak.0345a2d5.jpg",
     "static/media/design.73fe2647.png": "/latif/static/media/design.73fe2647.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.2e681542.js",
     "static/js/2.57a9d268.chunk.js",
-    "static/css/main.38933bd4.chunk.css",
-    "static/js/main.a990bb43.chunk.js"
+    "static/css/main.4b0c5fa7.chunk.css",
+    "static/js/main.b47548ee.chunk.js"
   ]
 }
